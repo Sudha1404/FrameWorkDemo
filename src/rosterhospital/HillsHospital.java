@@ -14,6 +14,7 @@ public class HillsHospital {
 
 	public static void main(String[] args) throws InterruptedException 
 	{
+		//this is test
 		System.setProperty("webdriver.chrome.driver","I:\\chromedriver.exe");
 		WebDriver driver=new ChromeDriver();
 		driver.get("https://www.bijib.biz");
